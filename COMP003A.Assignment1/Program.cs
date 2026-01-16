@@ -56,6 +56,17 @@
             Console.WriteLine("I Don't Give Up Easily");
             Console.WriteLine("I Ask For Help Instead Of Being Stuck");
             Console.WriteLine("I Value Discipline");
+            Console.WriteLine("I Want To Get A Job In The Data Type Fields");
+            Console.WriteLine("I Prefer A Structured Learning Style");
+            Console.WriteLine("I Focus On Self-Improvement");
+            Console.WriteLine("I Think A Lot About The Future");
+            Console.WriteLine("I Care About My Personal Growth");
+            Console.WriteLine("My Prefered Learning Style");
+            Console.WriteLine("I Admire Being Consistent");
+            Console.WriteLine("I Want To Be Depandable");
+            Console.WriteLine("I Value Honesty");
+            Console.WriteLine("I Want Stability In The Future");
+            Console.WriteLine("I Like To Prove Something For Myself");
         }
     }
 }
