@@ -76,6 +76,16 @@
             Console.WriteLine("I Am Proud Of My Work Ethic");
             Console.WriteLine("I Want To Become The Very Best Version Of Myself");
             Console.WriteLine("I Care About Doing Things The Right Way");
+            Console.WriteLine("I Am Really In Technology Or Computers On How They Work");
+            Console.WriteLine("I Want To Learning Coding Seriously");
+            Console.WriteLine("I Love Doing Projects While Learning");
+            Console.WriteLine("I Hate Being Lost Or Being Unprepared");
+            Console.WriteLine("I Care About My Long-Term Results");
+            Console.WriteLine("I Like Buidling Skills That Last");
+            Console.WriteLine("I Love Doing Things The Right Way");
+            Console.WriteLine("I Love Funko Pops");
+            Console.WriteLine("I'm Fascinated About How People Think Differently");
+            Console.WriteLine("I'm Very Patient On Tackling A Complex Problem");
         }
     }
 }
