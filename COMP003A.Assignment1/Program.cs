@@ -38,6 +38,14 @@
             Console.WriteLine("I Love Eating Pizza");
             Console.WriteLine("My Favorite Ice Cream Flavor is Cookies and Cream");
             Console.WriteLine("Winter Is My Favorite Season");
+            Console.WriteLine("I Love The Rain");
+            Console.WriteLine("I Love Sleeping");
+            Console.WriteLine("I Sometimes Listen To Old Music");
+            Console.WriteLine("I Am A Night Owl");
+            Console.WriteLine("I Love Nature");
+            Console.WriteLine("I've Never Smoked");
+            Console.WriteLine("I Am Horrible At Drawing");
+            Console.WriteLine("I Love Learning");
         }
     }
 }
