@@ -26,6 +26,18 @@
             Console.WriteLine("I Am A Fan Of Bruno Mars");
             Console.WriteLine("I Am A Fan Of Daniel Caesar");
             Console.WriteLine("My Favorite Music Genre is R&B");
+            Console.WriteLine("I Was Born In The Philippines");
+            Console.WriteLine("I Love The Color Dark Blue Grey");
+            Console.WriteLine("I Believe In God");
+            Console.WriteLine("I Am A Christian");
+            Console.WriteLine("I Love Problem Solving");
+            Console.WriteLine("I Am Loyal");
+            Console.WriteLine("I Am Honest");
+            Console.WriteLine("My Favorite Basketball Team Is The Golden State Warriors");
+            Console.WriteLine("My Favorite Football Team Is The 49ers");
+            Console.WriteLine("I Love Eating Pizza");
+            Console.WriteLine("My Favorite Ice Cream Flavor is Cookies and Cream");
+            Console.WriteLine("Winter Is My Favorite Season");
         }
     }
 }
