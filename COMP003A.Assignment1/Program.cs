@@ -46,6 +46,16 @@
             Console.WriteLine("I've Never Smoked");
             Console.WriteLine("I Am Horrible At Drawing");
             Console.WriteLine("I Love Learning");
+            Console.WriteLine("I Love Playing Sudoku");
+            Console.WriteLine("I Can Speak Tagalog");
+            Console.WriteLine("My Favorite Drink Is Sweet Tea Or Regular Tea");
+            Console.WriteLine("My Favorite Fast Food Restaurant is Taco Bell");
+            Console.WriteLine("My Least Favorite Fast Food Restaurant is McDonalds");
+            Console.WriteLine("My Least Favorite Filipino Dish Is Dinuguan");
+            Console.WriteLine("My Least Favorite Color Is Red");
+            Console.WriteLine("I Don't Give Up Easily");
+            Console.WriteLine("I Ask For Help Instead Of Being Stuck");
+            Console.WriteLine("I Value Discipline");
         }
     }
 }
