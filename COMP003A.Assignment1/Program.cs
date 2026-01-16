@@ -67,6 +67,15 @@
             Console.WriteLine("I Value Honesty");
             Console.WriteLine("I Want Stability In The Future");
             Console.WriteLine("I Like To Prove Something For Myself");
+            Console.WriteLine("I Prefer Meaningful Conversations");
+            Console.WriteLine("I Don't Mind Starting From Nothing");
+            Console.WriteLine("I Love Getting Out Of My Comfort Zone");
+            Console.WriteLine("I Like Having A Road Map");
+            Console.WriteLine("I Want My Efforts To Pay Off In The Future");
+            Console.WriteLine("I Want To Feel In Control Of My Future");
+            Console.WriteLine("I Am Proud Of My Work Ethic");
+            Console.WriteLine("I Want To Become The Very Best Version Of Myself");
+            Console.WriteLine("I Care About Doing Things The Right Way");
         }
     }
 }
