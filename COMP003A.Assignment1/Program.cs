@@ -86,6 +86,17 @@
             Console.WriteLine("I Love Funko Pops");
             Console.WriteLine("I'm Fascinated About How People Think Differently");
             Console.WriteLine("I'm Very Patient On Tackling A Complex Problem");
+            Console.WriteLine("I Like Clarity");
+            Console.WriteLine("I Try To Understand Myself Better");
+            Console.WriteLine("I Prefer Learning More Than Memorizing the Materials");
+            Console.WriteLine("I Love Asking Why Even If The Problem Is Not Complex");
+            Console.WriteLine("I Care About My Improvement");
+            Console.WriteLine("I Love Challenging Myself");
+            Console.WriteLine("I Enjoy Looking At Patterns");
+            Console.WriteLine("I Love Simple Explanations");
+            Console.WriteLine("I Like When Things Make Sense");
+            Console.WriteLine("I Play Video Games To Relax");
+            Console.WriteLine("I'm Proud Of Getting Out Of My Comfort Zone");
         }
     }
 }
