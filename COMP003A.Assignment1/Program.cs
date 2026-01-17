@@ -97,6 +97,14 @@
             Console.WriteLine("I Like When Things Make Sense");
             Console.WriteLine("I Play Video Games To Relax");
             Console.WriteLine("I'm Proud Of Getting Out Of My Comfort Zone");
+            Console.WriteLine("I'm Currently Finding A Way To Focus Better");
+            Console.WriteLine("I Struggle The Most On Critical Thinking");
+            Console.WriteLine("I Feel Bored When Teachers Talk And Don't Teach Visually");
+            Console.WriteLine("I Am A Visual Learner");
+            Console.WriteLine("I Feel Accomplished When I Don't Have To Worry About Anything");
+            Console.WriteLine("I Admire People Who Follow Their Goals");
+            Console.WriteLine("I Try To Understand The World Better");
+            Console.WriteLine("I Try To Become More Self Aware");
         }
     }
 }
